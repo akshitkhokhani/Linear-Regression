@@ -1,6 +1,7 @@
 # Linear-Regression
 
-##Data-set
+In this Project we use Housing Data those availabe in repository or here some information about data ser
+
 # **Boston housing data**
 Construct a working model which has the capability of predicting the value of houses. The features ‘RM’, ‘LSTAT’ and ‘PTRATIO’ give us quantitative information about each data point. The Target variable, ‘MEDV’ is the variable we seek to predict.
 
